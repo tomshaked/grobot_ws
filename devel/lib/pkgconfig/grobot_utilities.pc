@@ -1,0 +1,8 @@
+prefix=/home/tom/Dev/grobot_ws/devel
+
+Name: grobot_utilities
+Description: Description of grobot_utilities
+Version: 0.0.0
+Cflags: -I/home/tom/Dev/grobot_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime gazebo_msgs actionlib tf

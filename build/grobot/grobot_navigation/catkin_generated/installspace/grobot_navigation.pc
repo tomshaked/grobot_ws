@@ -1,0 +1,8 @@
+prefix=/home/tom/Dev/grobot_ws/install
+
+Name: grobot_navigation
+Description: Description of grobot_navigation
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: fiducial_msgs move_base_msgs std_srvs actionlib tf

@@ -1,0 +1,8 @@
+prefix=/home/tom/Dev/grobot_ws/install
+
+Name: grobot_bringup
+Description: Description of grobot_bringup
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: navigation gmapping turtlebot3_bringup turtlebot3_slam turtlebot3_example grobot_gazebo grobot_maps grobot_utilities grobot_navigation aruco_detect

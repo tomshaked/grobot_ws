@@ -1,0 +1,8 @@
+prefix=/home/tom/Dev/grobot_ws/devel
+
+Name: grobot_maps
+Description: Description of grobot_maps
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
